@@ -10,3 +10,4 @@ total=`expr $total + $t`
 t=`expr $t + 1`
 done
 echo "sum of $digit: $total"
+#
