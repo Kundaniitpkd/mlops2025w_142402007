@@ -1,0 +1,15 @@
+12a13,26
+> 
+> echo "---- Factorial of N numbers in shell script -------"
+> echo -n "Enter the Number: "
+> read digit
+> 
+> t=1
+> fact=1
+> while [ $t -le $digit ]
+> do
+>     fact=`expr $fact \* $t`
+>     t=`expr $t + 1`
+> done
+> echo "Factorial of $digit: $fact"
+> 
