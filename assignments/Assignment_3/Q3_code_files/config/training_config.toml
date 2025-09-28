@@ -1,0 +1,14 @@
+[hyperparameters]
+learning_rates = [0.1, 0.01, 0.001]
+optimizers = ["adam", "sgd"]
+momentums = [0.5, 0.9]
+
+[training]
+epochs = 2
+num_classes = 10
+device = "cpu"
+
+[grid_search]
+save_best_params = true
+model_results_file = "model_best_parameters.txt"
+overall_best_file = "overall_best.txt"

@@ -1,0 +1,14 @@
+{
+    "data_source": {
+        "name": "MNIST",
+        "path": "./data",
+        "batch_size": 10,
+        "image_size": 224,
+        "train_subset": 100,
+        "test_subset": 20
+    },
+    "model_architecture": {
+        "available_models": ["resnet34", "resnet50", "resnet101", "resnet152"],
+        "selected_model": "resnet34"
+    }
+}
