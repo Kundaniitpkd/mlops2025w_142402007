@@ -1,0 +1,11 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+.venv/
+*.db
+*.xlsx
+uv.lock
+.Rhistory
+.vscode/
+.idea/
+.env
