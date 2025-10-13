@@ -1,0 +1,63 @@
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 170M/170M [02:15<00:00, 1.25MB/s]
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 169M/169M [00:56<00:00, 2.98MB/s]
+
+Training on CIFAR-100...
+[CIFAR100] Epoch 1/25 | Loss: 4.348 | Acc: 6.02%
+[CIFAR100] Epoch 2/25 | Loss: 3.790 | Acc: 11.82%
+[CIFAR100] Epoch 3/25 | Loss: 3.426 | Acc: 16.96%
+[CIFAR100] Epoch 4/25 | Loss: 3.146 | Acc: 22.36%
+[CIFAR100] Epoch 5/25 | Loss: 2.741 | Acc: 28.78%
+[CIFAR100] Epoch 6/25 | Loss: 2.436 | Acc: 35.06%
+[CIFAR100] Epoch 7/25 | Loss: 1.990 | Acc: 45.26%
+[CIFAR100] Epoch 8/25 | Loss: 1.565 | Acc: 56.06%
+[CIFAR100] Epoch 9/25 | Loss: 1.204 | Acc: 64.98%
+[CIFAR100] Epoch 10/25 | Loss: 0.905 | Acc: 73.26%
+[CIFAR100] Epoch 11/25 | Loss: 0.698 | Acc: 80.24%
+[CIFAR100] Epoch 12/25 | Loss: 0.574 | Acc: 83.76%
+[CIFAR100] Epoch 13/25 | Loss: 0.340 | Acc: 90.80%
+[CIFAR100] Epoch 14/25 | Loss: 0.300 | Acc: 91.44%
+[CIFAR100] Epoch 15/25 | Loss: 0.216 | Acc: 94.18%
+[CIFAR100] Epoch 16/25 | Loss: 0.264 | Acc: 92.28%
+[CIFAR100] Epoch 17/25 | Loss: 0.202 | Acc: 94.16%
+[CIFAR100] Epoch 18/25 | Loss: 0.145 | Acc: 96.20%
+[CIFAR100] Epoch 19/25 | Loss: 0.251 | Acc: 93.40%
+[CIFAR100] Epoch 20/25 | Loss: 0.402 | Acc: 87.56%
+[CIFAR100] Epoch 21/25 | Loss: 0.173 | Acc: 95.00%
+[CIFAR100] Epoch 22/25 | Loss: 0.178 | Acc: 94.46%
+[CIFAR100] Epoch 23/25 | Loss: 0.132 | Acc: 96.76%
+[CIFAR100] Epoch 24/25 | Loss: 0.142 | Acc: 96.34%
+[CIFAR100] Epoch 25/25 | Loss: 0.102 | Acc: 97.12%
+
+Fine-tuning on CIFAR-10...
+[CIFAR10] Epoch 1/25 | Loss: 1.628 | Acc: 42.56%
+[CIFAR10] Epoch 2/25 | Loss: 1.031 | Acc: 63.16%
+[CIFAR10] Epoch 3/25 | Loss: 0.725 | Acc: 74.72%
+[CIFAR10] Epoch 4/25 | Loss: 0.464 | Acc: 84.32%
+[CIFAR10] Epoch 5/25 | Loss: 0.319 | Acc: 89.34%
+[CIFAR10] Epoch 6/25 | Loss: 0.339 | Acc: 88.52%
+[CIFAR10] Epoch 7/25 | Loss: 0.251 | Acc: 91.44%
+[CIFAR10] Epoch 8/25 | Loss: 0.165 | Acc: 94.34%
+[CIFAR10] Epoch 9/25 | Loss: 0.143 | Acc: 95.42%
+[CIFAR10] Epoch 10/25 | Loss: 0.204 | Acc: 93.38%
+[CIFAR10] Epoch 11/25 | Loss: 0.187 | Acc: 93.40%
+[CIFAR10] Epoch 12/25 | Loss: 0.118 | Acc: 96.10%
+[CIFAR10] Epoch 13/25 | Loss: 0.109 | Acc: 97.04%
+[CIFAR10] Epoch 14/25 | Loss: 0.207 | Acc: 93.28%
+[CIFAR10] Epoch 15/25 | Loss: 0.161 | Acc: 95.12%
+[CIFAR10] Epoch 16/25 | Loss: 0.088 | Acc: 97.44%
+[CIFAR10] Epoch 17/25 | Loss: 0.103 | Acc: 96.90%
+[CIFAR10] Epoch 18/25 | Loss: 0.040 | Acc: 99.00%
+[CIFAR10] Epoch 19/25 | Loss: 0.044 | Acc: 98.78%
+Traceback (most recent call last):
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\Q4.py", line 98, in <module>
+    train(model, trainloader10, optimizer, config["epochs"], "CIFAR10")
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\Q4.py", line 71, in train
+    loss.backward()
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\.venv\Lib\site-packages\torch\_tensor.py", line 647, in backward
+    torch.autograd.backward(
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\.venv\Lib\site-packages\torch\autograd\__init__.py", line 354, in backward
+    _engine_run_backward(
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\.venv\Lib\site-packages\torch\autograd\graph.py", line 829, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

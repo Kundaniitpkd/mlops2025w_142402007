@@ -1,0 +1,12 @@
+{"time":"2025-10-13T20:50:01.0782054+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-13T20:50:01.5529202+05:30","level":"INFO","msg":"stream: created new stream","id":"2zso6ve0"}
+{"time":"2025-10-13T20:50:01.5534724+05:30","level":"INFO","msg":"handler: started","stream_id":"2zso6ve0"}
+{"time":"2025-10-13T20:50:01.5619518+05:30","level":"INFO","msg":"stream: started","id":"2zso6ve0"}
+{"time":"2025-10-13T20:50:01.5619518+05:30","level":"INFO","msg":"writer: started","stream_id":"2zso6ve0"}
+{"time":"2025-10-13T20:50:01.5619518+05:30","level":"INFO","msg":"sender: started","stream_id":"2zso6ve0"}
+{"time":"2025-10-13T22:19:22.3772289+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/142402007-indian-institute-of-technology-palakkad/cifar/2zso6ve0/file_stream\": read tcp 10.32.1.184:64142->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-10-13T22:27:50.7120905+05:30","level":"INFO","msg":"stream: closing","id":"2zso6ve0"}
+{"time":"2025-10-13T22:27:52.7217921+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-13T22:27:53.1008717+05:30","level":"INFO","msg":"handler: closed","stream_id":"2zso6ve0"}
+{"time":"2025-10-13T22:27:53.1020208+05:30","level":"INFO","msg":"sender: closed","stream_id":"2zso6ve0"}
+{"time":"2025-10-13T22:27:53.1020208+05:30","level":"INFO","msg":"stream: closed","id":"2zso6ve0"}

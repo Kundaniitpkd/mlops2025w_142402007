@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\Q1.py", line 42, in <module>
+    train_sentences, train_labels = load_conll_file(train_file)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\Q1.py", line 13, in load_conll_file
+    with open(file_path, "r", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\Assignment5_mlops\\eng.train'

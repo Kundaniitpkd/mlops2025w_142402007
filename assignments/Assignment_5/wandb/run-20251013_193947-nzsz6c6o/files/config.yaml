@@ -1,0 +1,27 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            o8xx94wjl885k97s7yv12ql46fa5tl0t:
+                codePath: Q1.py
+                codePathLocal: Q1.py
+                email: 142402007@smail.iitpkd.ac.in
+                executable: D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\.venv\Scripts\python.exe
+                host: Kundans-PC
+                os: Windows-10-10.0.26100-SP0
+                program: D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\Q1.py
+                python: CPython 3.11.3
+                root: D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5
+                startedAt: "2025-10-13T14:09:47.424115Z"
+                writerId: o8xx94wjl885k97s7yv12ql46fa5tl0t
+        m: []
+        python_version: 3.11.3
+        t:
+            "3":
+                - 13
+            "4": 3.11.3
+            "5": 0.22.2
+            "8":
+                - 3
+            "12": 0.22.2
+            "13": windows-amd64

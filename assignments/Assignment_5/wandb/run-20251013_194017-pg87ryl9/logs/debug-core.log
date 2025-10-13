@@ -1,0 +1,18 @@
+{"time":"2025-10-13T19:40:17.9833527+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\KUNDAN~1\\AppData\\Local\\Temp\\tmpwmjshaoh\\port-30452.txt","pid":30452,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-10-13T19:40:17.9931252+05:30","level":"INFO","msg":"server: will exit if parent process dies","ppid":30452}
+{"time":"2025-10-13T19:40:17.9931252+05:30","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\KUNDAN~1\\AppData\\Local\\Temp\\wandb-30452-12368-3938708261\\socket","Net":"unix"}}
+{"time":"2025-10-13T19:40:17.9931252+05:30","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":63747,"Zone":""}}
+{"time":"2025-10-13T19:40:20.1613331+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:20.2169745+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"pg87ryl9","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:21.5341382+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"pg87ryl9","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:24.7654157+05:30","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"pg87ryl9","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:24.777533+05:30","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"pg87ryl9","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:24.777533+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:24.777533+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:24.777533+05:30","level":"INFO","msg":"connection: closing","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:24.777533+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-10-13T19:40:24.7781658+05:30","level":"INFO","msg":"connection: closed successfully","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:24.7789086+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"1(127.0.0.1:63749)"}
+{"time":"2025-10-13T19:40:24.7807379+05:30","level":"INFO","msg":"server: listener closed","addr":{"Name":"C:\\Users\\KUNDAN~1\\AppData\\Local\\Temp\\wandb-30452-12368-3938708261\\socket","Net":"unix"}}
+{"time":"2025-10-13T19:40:24.7807379+05:30","level":"INFO","msg":"server: listener closed","addr":{"IP":"127.0.0.1","Port":63747,"Zone":""}}
+{"time":"2025-10-13T19:40:24.7813026+05:30","level":"INFO","msg":"server is closed"}

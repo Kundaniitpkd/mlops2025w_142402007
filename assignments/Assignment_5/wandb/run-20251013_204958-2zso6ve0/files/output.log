@@ -1,0 +1,103 @@
+
+Training on CIFAR-100...
+[CIFAR100] Epoch 1/100 | Loss: 4.332 | Acc: 6.34%
+[CIFAR100] Epoch 2/100 | Loss: 3.719 | Acc: 12.78%
+[CIFAR100] Epoch 3/100 | Loss: 3.402 | Acc: 17.80%
+[CIFAR100] Epoch 4/100 | Loss: 3.052 | Acc: 24.20%
+[CIFAR100] Epoch 5/100 | Loss: 2.711 | Acc: 30.64%
+[CIFAR100] Epoch 6/100 | Loss: 2.346 | Acc: 37.94%
+[CIFAR100] Epoch 7/100 | Loss: 1.931 | Acc: 47.86%
+[CIFAR100] Epoch 8/100 | Loss: 1.542 | Acc: 57.70%
+[CIFAR100] Epoch 9/100 | Loss: 1.126 | Acc: 67.30%
+[CIFAR100] Epoch 10/100 | Loss: 0.805 | Acc: 77.44%
+[CIFAR100] Epoch 11/100 | Loss: 0.615 | Acc: 81.46%
+[CIFAR100] Epoch 12/100 | Loss: 0.389 | Acc: 88.78%
+[CIFAR100] Epoch 13/100 | Loss: 0.311 | Acc: 91.34%
+[CIFAR100] Epoch 14/100 | Loss: 0.448 | Acc: 86.90%
+[CIFAR100] Epoch 15/100 | Loss: 0.309 | Acc: 91.30%
+[CIFAR100] Epoch 16/100 | Loss: 0.172 | Acc: 95.86%
+[CIFAR100] Epoch 17/100 | Loss: 0.237 | Acc: 93.18%
+[CIFAR100] Epoch 18/100 | Loss: 0.292 | Acc: 92.20%
+[CIFAR100] Epoch 19/100 | Loss: 0.329 | Acc: 90.70%
+[CIFAR100] Epoch 20/100 | Loss: 0.164 | Acc: 94.94%
+[CIFAR100] Epoch 21/100 | Loss: 0.120 | Acc: 96.92%
+[CIFAR100] Epoch 22/100 | Loss: 0.241 | Acc: 93.10%
+[CIFAR100] Epoch 23/100 | Loss: 0.198 | Acc: 94.06%
+[CIFAR100] Epoch 24/100 | Loss: 0.061 | Acc: 98.60%
+[CIFAR100] Epoch 25/100 | Loss: 0.037 | Acc: 99.38%
+[CIFAR100] Epoch 26/100 | Loss: 0.087 | Acc: 98.02%
+[CIFAR100] Epoch 27/100 | Loss: 0.093 | Acc: 97.36%
+[CIFAR100] Epoch 28/100 | Loss: 0.083 | Acc: 97.74%
+[CIFAR100] Epoch 29/100 | Loss: 0.258 | Acc: 92.12%
+[CIFAR100] Epoch 30/100 | Loss: 0.384 | Acc: 88.34%
+[CIFAR100] Epoch 31/100 | Loss: 0.381 | Acc: 88.76%
+[CIFAR100] Epoch 32/100 | Loss: 0.270 | Acc: 92.10%
+[CIFAR100] Epoch 33/100 | Loss: 0.262 | Acc: 93.10%
+[CIFAR100] Epoch 34/100 | Loss: 0.225 | Acc: 93.72%
+[CIFAR100] Epoch 35/100 | Loss: 0.140 | Acc: 96.16%
+[CIFAR100] Epoch 36/100 | Loss: 0.065 | Acc: 98.34%
+[CIFAR100] Epoch 37/100 | Loss: 0.015 | Acc: 99.70%
+[CIFAR100] Epoch 38/100 | Loss: 0.010 | Acc: 99.96%
+[CIFAR100] Epoch 39/100 | Loss: 0.055 | Acc: 98.86%
+[CIFAR100] Epoch 40/100 | Loss: 0.107 | Acc: 97.12%
+[CIFAR100] Epoch 41/100 | Loss: 0.197 | Acc: 94.34%
+[CIFAR100] Epoch 42/100 | Loss: 0.301 | Acc: 90.96%
+[CIFAR100] Epoch 43/100 | Loss: 0.182 | Acc: 94.96%
+[CIFAR100] Epoch 44/100 | Loss: 0.149 | Acc: 95.40%
+[CIFAR100] Epoch 45/100 | Loss: 0.077 | Acc: 97.94%
+[CIFAR100] Epoch 46/100 | Loss: 0.041 | Acc: 99.10%
+[CIFAR100] Epoch 47/100 | Loss: 0.041 | Acc: 99.06%
+[CIFAR100] Epoch 48/100 | Loss: 0.132 | Acc: 96.70%
+[CIFAR100] Epoch 49/100 | Loss: 0.158 | Acc: 95.90%
+[CIFAR100] Epoch 50/100 | Loss: 0.133 | Acc: 96.38%
+[CIFAR100] Epoch 51/100 | Loss: 0.148 | Acc: 96.08%
+[CIFAR100] Epoch 52/100 | Loss: 0.035 | Acc: 98.98%
+[CIFAR100] Epoch 53/100 | Loss: 0.028 | Acc: 99.34%
+[CIFAR100] Epoch 54/100 | Loss: 0.078 | Acc: 98.18%
+[CIFAR100] Epoch 55/100 | Loss: 0.229 | Acc: 93.60%
+[CIFAR100] Epoch 56/100 | Loss: 0.266 | Acc: 92.26%
+[CIFAR100] Epoch 57/100 | Loss: 0.077 | Acc: 98.00%
+[CIFAR100] Epoch 58/100 | Loss: 0.206 | Acc: 94.52%
+[CIFAR100] Epoch 59/100 | Loss: 0.076 | Acc: 97.74%
+[CIFAR100] Epoch 60/100 | Loss: 0.021 | Acc: 99.54%
+[CIFAR100] Epoch 61/100 | Loss: 0.049 | Acc: 98.64%
+[CIFAR100] Epoch 62/100 | Loss: 0.034 | Acc: 99.28%
+[CIFAR100] Epoch 63/100 | Loss: 0.062 | Acc: 98.78%
+[CIFAR100] Epoch 64/100 | Loss: 0.154 | Acc: 95.70%
+[CIFAR100] Epoch 65/100 | Loss: 0.122 | Acc: 96.86%
+[CIFAR100] Epoch 66/100 | Loss: 0.083 | Acc: 97.32%
+[CIFAR100] Epoch 67/100 | Loss: 0.042 | Acc: 98.64%
+[CIFAR100] Epoch 68/100 | Loss: 0.020 | Acc: 99.44%
+[CIFAR100] Epoch 69/100 | Loss: 0.051 | Acc: 98.96%
+[CIFAR100] Epoch 70/100 | Loss: 0.163 | Acc: 96.38%
+[CIFAR100] Epoch 71/100 | Loss: 0.200 | Acc: 94.70%
+[CIFAR100] Epoch 72/100 | Loss: 0.161 | Acc: 95.42%
+[CIFAR100] Epoch 73/100 | Loss: 0.139 | Acc: 95.58%
+[CIFAR100] Epoch 74/100 | Loss: 0.078 | Acc: 97.60%
+[CIFAR100] Epoch 75/100 | Loss: 0.100 | Acc: 97.14%
+[CIFAR100] Epoch 76/100 | Loss: 0.095 | Acc: 97.62%
+[CIFAR100] Epoch 77/100 | Loss: 0.115 | Acc: 97.04%
+[CIFAR100] Epoch 78/100 | Loss: 0.131 | Acc: 96.40%
+[CIFAR100] Epoch 79/100 | Loss: 0.070 | Acc: 97.90%
+[CIFAR100] Epoch 80/100 | Loss: 0.059 | Acc: 98.60%
+[CIFAR100] Epoch 81/100 | Loss: 0.038 | Acc: 99.14%
+[CIFAR100] Epoch 82/100 | Loss: 0.018 | Acc: 99.52%
+[CIFAR100] Epoch 83/100 | Loss: 0.017 | Acc: 99.62%
+[CIFAR100] Epoch 84/100 | Loss: 0.020 | Acc: 99.60%
+[CIFAR100] Epoch 85/100 | Loss: 0.046 | Acc: 98.72%
+[CIFAR100] Epoch 86/100 | Loss: 0.054 | Acc: 98.78%
+[CIFAR100] Epoch 87/100 | Loss: 0.121 | Acc: 96.62%
+[CIFAR100] Epoch 88/100 | Loss: 0.104 | Acc: 97.72%
+Traceback (most recent call last):
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\Q4.py", line 93, in <module>
+    train(model, trainloader100, optimizer, config["epochs"], "CIFAR100")
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\Q4.py", line 71, in train
+    loss.backward()
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\.venv\Lib\site-packages\torch\_tensor.py", line 647, in backward
+    torch.autograd.backward(
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\.venv\Lib\site-packages\torch\autograd\__init__.py", line 354, in backward
+    _engine_run_backward(
+  File "D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\.venv\Lib\site-packages\torch\autograd\graph.py", line 829, in _engine_run_backward
+    return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

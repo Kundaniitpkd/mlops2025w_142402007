@@ -1,0 +1,4 @@
+Number of training samples: 14987
+Number of validation samples: 3684
+Number of test samples: 3466
+Entity distribution: {'O': 170524, 'B-ORG': 6321, 'B-MISC': 3438, 'B-PER': 6600, 'I-PER': 4528, 'B-LOC': 7140, 'I-ORG': 3704, 'I-MISC': 1155, 'I-LOC': 1157}

@@ -1,0 +1,6 @@
+
+Training on CIFAR-100...
+[CIFAR100] Epoch 1/25 | Loss: 4.350 | Acc: 5.42%
+[CIFAR100] Epoch 2/25 | Loss: 3.828 | Acc: 11.10%
+[CIFAR100] Epoch 3/25 | Loss: 3.469 | Acc: 16.48%
+[CIFAR100] Epoch 4/25 | Loss: 3.152 | Acc: 20.58%

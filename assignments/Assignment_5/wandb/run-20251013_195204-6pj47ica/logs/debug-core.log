@@ -1,0 +1,17 @@
+{"time":"2025-10-13T19:52:04.8886067+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\KUNDAN~1\\AppData\\Local\\Temp\\tmpfh2566l_\\port-9332.txt","pid":9332,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-10-13T19:52:04.8971114+05:30","level":"INFO","msg":"server: will exit if parent process dies","ppid":9332}
+{"time":"2025-10-13T19:52:04.8971114+05:30","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\KUNDAN~1\\AppData\\Local\\Temp\\wandb-9332-28452-4059296060\\socket","Net":"unix"}}
+{"time":"2025-10-13T19:52:04.8971114+05:30","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":63251,"Zone":""}}
+{"time":"2025-10-13T19:52:07.0723586+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:63253)"}
+{"time":"2025-10-13T19:52:07.150233+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"6pj47ica","id":"1(127.0.0.1:63253)"}
+{"time":"2025-10-13T19:52:08.4423305+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"6pj47ica","id":"1(127.0.0.1:63253)"}
+{"time":"2025-10-13T19:52:09.5210402+05:30","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"1(127.0.0.1:63253)"}
+{"time":"2025-10-13T19:52:09.5216319+05:30","level":"INFO","msg":"connection: closing","id":"1(127.0.0.1:63253)"}
+{"time":"2025-10-13T19:52:09.5216319+05:30","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-10-13T19:52:09.5216319+05:30","level":"INFO","msg":"connection: closed successfully","id":"1(127.0.0.1:63253)"}
+{"time":"2025-10-13T19:52:09.5229811+05:30","level":"INFO","msg":"server: listener closed","addr":{"Name":"C:\\Users\\KUNDAN~1\\AppData\\Local\\Temp\\wandb-9332-28452-4059296060\\socket","Net":"unix"}}
+{"time":"2025-10-13T19:52:09.5235682+05:30","level":"INFO","msg":"server: listener closed","addr":{"IP":"127.0.0.1","Port":63251,"Zone":""}}
+{"time":"2025-10-13T19:52:09.8761186+05:30","level":"ERROR","msg":"processOutgoingData: flush error","error":"write tcp 127.0.0.1:63251->127.0.0.1:63253: use of closed network connection","id":"1(127.0.0.1:63253)"}
+{"time":"2025-10-13T19:52:12.1249949+05:30","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"1(127.0.0.1:63253)"}
+{"time":"2025-10-13T19:52:12.1249949+05:30","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"1(127.0.0.1:63253)"}
+{"time":"2025-10-13T19:52:12.1249949+05:30","level":"INFO","msg":"server is closed"}

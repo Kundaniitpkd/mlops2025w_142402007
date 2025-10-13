@@ -1,0 +1,36 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.3",
+  "startedAt": "2025-10-13T14:04:59.883702Z",
+  "program": "D:\\MTech DS\\Mtech sem 3\\MLOps\\ass_5\\Assignment5\\Q1.py",
+  "codePath": "Q1.py",
+  "codePathLocal": "Q1.py",
+  "email": "142402007@smail.iitpkd.ac.in",
+  "root": "D:\\MTech DS\\Mtech sem 3\\MLOps\\ass_5\\Assignment5",
+  "host": "Kundans-PC",
+  "executable": "D:\\MTech DS\\Mtech sem 3\\MLOps\\ass_5\\Assignment5\\.venv\\Scripts\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce GTX 1650",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "209714147328",
+      "used": "171755675648"
+    }
+  },
+  "memory": {
+    "total": "14877265920"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce GTX 1650",
+      "memoryTotal": "4294967296",
+      "cudaCores": 896,
+      "architecture": "Turing",
+      "uuid": "GPU-78fce1fb-ec21-9b7b-267c-86d91edb9028"
+    }
+  ],
+  "cudaVersion": "12.9",
+  "writerId": "6xzhulrzlc1japkhz31q1r7q9hgkrnke"
+}

@@ -1,0 +1,12 @@
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 14987/14987 [00:00<00:00, 16036.67it/s]
+Labeling Function Summary:
+               j Polarity  Coverage  Overlaps  Conflicts
+lf_year        0      [0]  0.095549  0.000133   0.000133
+lf_org_suffix  1      [1]  0.001201  0.000133   0.000133
+
+Aggregated Label Distribution:
+aggregated_label
+-1    13541
+ 0     1430
+ 1       16
+Name: count, dtype: int64

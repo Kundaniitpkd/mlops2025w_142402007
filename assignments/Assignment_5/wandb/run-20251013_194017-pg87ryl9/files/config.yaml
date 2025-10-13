@@ -1,0 +1,46 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            5vqbcj6u7jnsvmz56rg2p7rri1w4u11k:
+                codePath: Q1.py
+                codePathLocal: Q1.py
+                cpu_count: 8
+                cpu_count_logical: 16
+                cudaVersion: "12.9"
+                disk:
+                    /:
+                        total: "209714147328"
+                        used: "171755769856"
+                email: 142402007@smail.iitpkd.ac.in
+                executable: D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\.venv\Scripts\python.exe
+                gpu: NVIDIA GeForce GTX 1650
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Turing
+                      cudaCores: 896
+                      memoryTotal: "4294967296"
+                      name: NVIDIA GeForce GTX 1650
+                      uuid: GPU-78fce1fb-ec21-9b7b-267c-86d91edb9028
+                host: Kundans-PC
+                memory:
+                    total: "14877265920"
+                os: Windows-10-10.0.26100-SP0
+                program: D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5\Q1.py
+                python: CPython 3.11.3
+                root: D:\MTech DS\Mtech sem 3\MLOps\ass_5\Assignment5
+                startedAt: "2025-10-13T14:10:17.856672Z"
+                writerId: 5vqbcj6u7jnsvmz56rg2p7rri1w4u11k
+        m: []
+        python_version: 3.11.3
+        t:
+            "3":
+                - 2
+                - 13
+                - 62
+            "4": 3.11.3
+            "5": 0.22.2
+            "8":
+                - 3
+            "12": 0.22.2
+            "13": windows-amd64

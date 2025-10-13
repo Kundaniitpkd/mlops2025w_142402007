@@ -1,0 +1,7 @@
+{"time":"2025-10-13T22:28:02.9588941+05:30","level":"INFO","msg":"main: starting server","port-filename":"C:\\Users\\KUNDAN~1\\AppData\\Local\\Temp\\tmp2eszm6j3\\port-25892.txt","pid":25892,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2025-10-13T22:28:02.963152+05:30","level":"INFO","msg":"server: will exit if parent process dies","ppid":25892}
+{"time":"2025-10-13T22:28:02.963152+05:30","level":"INFO","msg":"server: accepting connections","addr":{"Name":"C:\\Users\\KUNDAN~1\\AppData\\Local\\Temp\\wandb-25892-21660-3772193316\\socket","Net":"unix"}}
+{"time":"2025-10-13T22:28:02.963152+05:30","level":"INFO","msg":"server: accepting connections","addr":{"IP":"127.0.0.1","Port":49491,"Zone":""}}
+{"time":"2025-10-13T22:28:05.1446063+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(127.0.0.1:49494)"}
+{"time":"2025-10-13T22:28:05.163415+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"6bou8r9z","id":"1(127.0.0.1:49494)"}
+{"time":"2025-10-13T22:28:05.664628+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"6bou8r9z","id":"1(127.0.0.1:49494)"}
