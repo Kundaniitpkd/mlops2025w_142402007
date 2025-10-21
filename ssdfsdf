@@ -1,0 +1,97 @@
+[33mcommit 05315ea2436ccc8fdfd50d03c1fdc7b64d1296d8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Sun Sep 28 14:10:01 2025 +0530
+
+    Assingnment 3
+
+[33mcommit fdc8978e7ccfc429c78e015e3746cdaf561a20f3[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Sun Sep 28 14:09:52 2025 +0530
+
+    Assingnment 3
+
+[33mcommit 1f59fa2e12a339d0c3c6b14ccaae0c95e0af0e94[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Tue Aug 26 10:55:42 2025 +0530
+
+    week4
+    
+    added an pandas file
+
+[33mcommit 095e43010c60ee2812201075d58df6720d533a37[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Tue Aug 26 10:25:14 2025 +0530
+
+    week4
+    
+    UV
+
+[33mcommit 4a3eafc205c517fe016eb7227ac70257209d843a[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Mon Aug 25 23:07:18 2025 +0530
+
+    [Q3] stuff rewording this
+
+[33mcommit 4993988992f7a0c5d0f8805e1372bb182578249b[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Mon Aug 25 23:08:45 2025 +0530
+
+    [Q3] fixes rewording this
+
+[33mcommit a699b751c2efc6c370a39caafcf4753b523a6086[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Mon Aug 25 23:18:57 2025 +0530
+
+    [Q3] change rewording this
+
+[33mcommit 11d50272673b3686712e2f9974b1eb17d2f42a5e[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Thu Aug 21 01:21:28 2025 +0530
+
+    [Q1] - e
+    
+     Add docs/usage.md with placeholder content
+
+[33mcommit c30b3327470ae7a9c3212de2a24378ac9a70c650[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Thu Aug 21 01:17:40 2025 +0530
+
+    [Q1] - d
+    
+     Add .gitignore to exclude logs and temp directory
+
+[33mcommit 174379c0e777b4e09fdeb1907a2c3bf75c6758a4[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Thu Aug 21 01:11:00 2025 +0530
+
+    [Q1] - c
+    
+     Add utils.py with helper functions
+
+[33mcommit 462d2bca0b14713b13c3b30dfc5a8d85165fab9c[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Thu Aug 21 01:03:21 2025 +0530
+
+    [Q1] - b
+    
+     Add calculator.py with addition function
+
+[33mcommit 05b26514cca6221e3cc88be86e6544baa98015c6[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Thu Aug 21 00:54:58 2025 +0530
+
+    [Q1] - a
+    
+    Initial commit with README.md
+
+[33mcommit 8657cc2c9a54d575a9a2df7173bc81b23af1dcf7[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Tue Aug 19 12:27:57 2025 +0530
+
+    week3
+
+[33mcommit d3d16917d95cba5d84c3fcad0452ad3c75793254[m
+Author: Kundaniitpkd <142402007@smail.iitpkd.ac.in>
+Date:   Tue Aug 19 12:12:44 2025 +0530
+
+    first commit sum and factorial
